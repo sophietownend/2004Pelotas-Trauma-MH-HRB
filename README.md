@@ -21,7 +21,7 @@ The main analyses include:
    Sensitivity analyses to assess potential sex differences.
 
 4. **Counterfactual mediation analyses**  
-   - Exposure: Cumulative trauma up to age 15  
+   - Exposure: Cumulative trauma up to age 11  
    - Mediators: Internalising and externalising problems at age 15  
    - Outcomes: Smoking, problematic alcohol use, illicit drug use, overall and bouted physical activity, and ultra-processed food intake at age 18
    - Sensitivity analyses assessing whether indirect effects were driven by a single mediator.
