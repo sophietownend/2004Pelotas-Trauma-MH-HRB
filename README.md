@@ -1,4 +1,4 @@
-# 2004Pelotas-Trauma-MH-CMD
+# 2004Pelotas-Trauma-MH-HRB
 This repository contains the analysis code used for data preparation, imputation, and statistical analyses for the manuscript:
 
 > *Mental health problems as mediators between childhood trauma and cardiometabolic risk behaviours in the 2004 Pelotas Birth Cohort*
